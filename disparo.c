@@ -66,6 +66,5 @@ int main() {
 
     while (1) {
         sleep_ms(1000);
-        printf("Sistema aguardando acionamento do botão...\n");
     }
 }

@@ -15,7 +15,7 @@
         "id": "r1",
         "top": 157.55,
         "left": -249.6,
-        "attrs": { "value": "1000" }
+        "attrs": { "value": "330000" }
       },
       {
         "type": "wokwi-led",
@@ -44,14 +44,14 @@
         "id": "r2",
         "top": 186.35,
         "left": -240,
-        "attrs": { "value": "1000" }
+        "attrs": { "value": "330000" }
       },
       {
         "type": "wokwi-resistor",
         "id": "r3",
         "top": 205.55,
         "left": -211.2,
-        "attrs": { "value": "1000" }
+        "attrs": { "value": "330000" }
       }
     ],
     "connections": [
