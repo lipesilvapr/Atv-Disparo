@@ -53,7 +53,6 @@ Se você estiver usando o simulador Wokwi:
 - Após mais **3 segundos**, o **LED vermelho apaga**.
 - Após mais **3 segundos**, o **LED azul apaga** e o sistema estará pronto para nova ativação.
 - Durante esse processo, o botão não pode ser pressionado novamente.
-- A rotina principal imprime a mensagem `"Sistema aguardando acionamento do botão..."` a cada segundo via porta serial.
 
 ---
 
